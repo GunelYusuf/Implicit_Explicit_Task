@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{46D8D097-CF11-4EE9-B76F-4B884CE52A33}|Default">
+  <MonoDevelop.Ide.ItemProperties.Implicit__Explicit__Task PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Implicit_Explicit_Task/Program.cs">
+    <Files>
+      <File FileName="Implicit_Explicit_Task/Program.cs" Line="34" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Implicit_Explicit_Task" expanded="True">
+            <Node name="Implicit_Explicit_Task" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

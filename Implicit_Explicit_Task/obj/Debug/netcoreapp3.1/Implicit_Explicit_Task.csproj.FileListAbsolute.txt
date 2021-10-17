@@ -1,0 +1,13 @@
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/bin/Debug/netcoreapp3.1/Implicit_Explicit_Task.deps.json
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/bin/Debug/netcoreapp3.1/Implicit_Explicit_Task.runtimeconfig.json
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/bin/Debug/netcoreapp3.1/Implicit_Explicit_Task.runtimeconfig.dev.json
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/bin/Debug/netcoreapp3.1/Implicit_Explicit_Task.dll
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/bin/Debug/netcoreapp3.1/Implicit_Explicit_Task.pdb
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.csproj.AssemblyReference.cache
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.AssemblyInfoInputs.cache
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.AssemblyInfo.cs
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.csproj.CoreCompileInputs.cache
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.dll
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.pdb
+/Users/gunelyusubova/Projects/Implicit_Explicit_Task/Implicit_Explicit_Task/obj/Debug/netcoreapp3.1/Implicit_Explicit_Task.genruntimeconfig.cache
